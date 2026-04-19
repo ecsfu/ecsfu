@@ -1,16 +1,15 @@
-## Hi there 👋
+## AI投研工程师
 
-<!--
-**ecsfu/ecsfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+用工程师的方法做投资研究
 
-Here are some ideas to get you started:
+**正在构建**
+- 公司护城河分析工具（LLM + RAG）
+- 金融异构数据库（PostgreSQL + pgvector）
+- 事件概率预测模型
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**写作**
+- 公众号：AI投研工程师
+- 知乎：@AI投研工程师
+
+**技术栈**
+Python · PostgreSQL · pgvector · LangChain · FastAPI
